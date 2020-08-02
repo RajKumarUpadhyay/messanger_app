@@ -23,9 +23,6 @@ message from sender or user by ID. For message read and write service uses Activ
 |  GET | http://localhost:8080/findAllMessageSendedByMe/{userId}  | Get all message send by me(pass sender Id in URI) |
 |  Get | http://localhost:8080/findAllMessageReceivedByMe/{userId}  |  Get all message received by me(pass receiver Id in URI)  |
 
-
-### Important 
- - Due to time crunch I skipped test. Sorry for the inconvenience here. 
  
  ### Maintainer 
  Raj K Upadhyay
