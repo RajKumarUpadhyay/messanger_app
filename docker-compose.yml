@@ -1,0 +1,22 @@
+version: '3'
+services:
+  database:
+    container_name: db
+    image: "postgres"
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: messangerdb
+    volumes:
+      - database-data:/var/lib/postgresql/data/
+  messanger:
+    container_name: messanger
+    image: messanger:latest
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+volumes:
+  database-data:

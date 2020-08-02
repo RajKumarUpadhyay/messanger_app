@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74b19a6d-efaf-4c07-8393-5a6ab3d4c953" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/IGCloudSync.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/src/main/java/com/cloudsync/lambda/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IGCloudSync/src/main/java/com/cloudsync/lambda/S3Upload.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1fRwGOzaBuCIZJVVZthzlWpYuyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.message.api" />
+      <recent name="com.message.messanger" />
+      <recent name="com.message.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MessangerControllerTest.getMessage">
+    <configuration name="MessageReceiverTest.receiveMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messanger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.message.messanger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.message.messanger" />
+      <option name="MAIN_CLASS_NAME" value="com.message.messanger.MessageReceiverTest" />
+      <option name="METHOD_NAME" value="receiveMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessangerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messanger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.message.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.message.api" />
+      <option name="MAIN_CLASS_NAME" value="com.message.api.MessangerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessangerControllerTest.getMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messanger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.message.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.message.api" />
+      <option name="MAIN_CLASS_NAME" value="com.message.api.MessangerControllerTest" />
+      <option name="METHOD_NAME" value="getMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessangerControllerTest.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messanger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.message.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.message.api" />
+      <option name="MAIN_CLASS_NAME" value="com.message.api.MessangerControllerTest" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messanger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.message.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.message.service" />
+      <option name="MAIN_CLASS_NAME" value="com.message.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessangerControllerTest.getMessage" />
+        <item itemvalue="JUnit.MessangerControllerTest.send" />
+        <item itemvalue="JUnit.MessangerControllerTest" />
+        <item itemvalue="JUnit.MessageReceiverTest.receiveMessage" />
+        <item itemvalue="JUnit.UserServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74b19a6d-efaf-4c07-8393-5a6ab3d4c953" name="Default Changelist" comment="" />
+      <created>1596194116356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596194116356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596197139750">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596197139750" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1596391800120">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596391800120" />
+    <state width="1638" height="452" key="GridCell.Tab.0.bottom" timestamp="1596394667000">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="452" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596394667000" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414585" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215577" />
+    <state width="1638" height="452" key="GridCell.Tab.0.center" timestamp="1596394666999">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="452" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596394666999" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414584" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215574" />
+    <state width="1638" height="452" key="GridCell.Tab.0.left" timestamp="1596394666999">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="452" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596394666999" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414583" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215573" />
+    <state width="1638" height="452" key="GridCell.Tab.0.right" timestamp="1596394667000">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="452" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596394667000" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414585" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215576" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1596392309617">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596392309617" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414589" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215583" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1596392309616">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596392309616" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414587" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215580" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1596392309615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596392309615" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414586" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215578" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1596392309616">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596392309616" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596202414588" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/1680.23.1920.1177/-1920.23.1920.1177/0.0.1680.990@0.0.1680.990" timestamp="1596199215582" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1596198886495">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596198886495" />
+    <state x="517" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1596382075985">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="338" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596382075985" />
+    <state x="517" y="338" key="com.intellij.ide.util.TipDialog/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596196992089" />
+    <state x="616" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596392356901">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="616" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596392356901" />
+    <state x="616" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog/1680.0.1920.1200/-1920.0.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1596194266175" />
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1596389741172">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1596389741172" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/message/service/UserService.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/message/service/UserServiceTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/message/service/UserServiceTest.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/message/messanger/MessageReceiverTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/messanger$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1596391075842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.message.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
