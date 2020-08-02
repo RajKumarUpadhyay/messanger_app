@@ -1,5 +1,4 @@
 package com.message.service;
-
 import com.message.entity.Message;
 import com.message.entity.MessageHistory;
 import com.message.entity.UserModel;
@@ -7,6 +6,7 @@ import com.message.exception.DuplicateResourceRequestException;
 import com.message.exception.ResourceNotFoundException;
 import com.message.repository.MessageTransactionRepository;
 import com.message.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -17,7 +17,6 @@ import java.util.UUID;
 
 @Service
 public class UserService {
-
 
     @Autowired
     UserRepository userRepository;
@@ -38,7 +37,6 @@ public class UserService {
             else
                 return  userRepository.save(user);
         }catch (Exception e) {
-            e.printStackTrace();
                 throw new RuntimeException("Failed To Create User. Try after some time!");
         }
     }

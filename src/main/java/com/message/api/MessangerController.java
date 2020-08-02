@@ -45,7 +45,6 @@ public class MessangerController {
         messageSender.sendMessage(message);
         messageReceiver.receiveMessage();
         userService.saveMessageHistory(message, senderId);
-
         return new ResponseEntity<>("!Message Sent!", HttpStatus.OK);
     }
 

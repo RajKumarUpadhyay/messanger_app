@@ -47,6 +47,7 @@
 			<artifactId>activemq-broker</artifactId>
 		</dependency>
 		<dependency>
+<<<<<<< HEAD
 			<groupId>io.zonky.test</groupId>
 			<artifactId>embedded-database-spring-test</artifactId>
 			<version>1.5.2</version>
@@ -54,6 +55,8 @@
 		</dependency>
 
 		<dependency>
+=======
+>>>>>>> a5856148a61e7fa33d8eab90c68a42538f7de995
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 		</dependency>
@@ -84,12 +87,16 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>
+=======
+	</dependencies>
+>>>>>>> a5856148a61e7fa33d8eab90c68a42538f7de995
 
 	<build>
 		<plugins>

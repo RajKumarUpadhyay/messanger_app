@@ -30,7 +30,6 @@ public class MessageReceiver {
             String text = textMessage.getText();
             System.out.println("received: " + text);
         } catch (JMSException e) {
-            e.getMessage();
         }
     }
 }
